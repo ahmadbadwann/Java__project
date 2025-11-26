@@ -10,6 +10,10 @@ public class AuthController {
 
         return "Login.jsp";
     }
+    @GetMapping("/a")
+    public String a() {
+        return "index.jsp";
+    }
 
     @GetMapping("/signup")
     public String signup() {
