@@ -11,7 +11,8 @@
 </head>
 
 <body class="bg-gray-50">
-
+<!-- Include Header -->
+<jsp:include page="includes/header.jsp" />  
 <div class="flex h-screen">
 
     <!-- Left Side -->

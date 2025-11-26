@@ -5,8 +5,8 @@
 
             <!-- Navigation -->
             <nav class="flex gap-8">
-                <a href="index.jsp" class="nav-link">الرئيسية</a>
-                <a href="login.jsp" class="nav-link">تسجيل الدخول</a>
+                <a href="/homepage" class="nav-link">الرئيسية</a>
+                <a href="/login" class="nav-link">تسجيل الدخول</a>
                 <a href="register-choice.jsp" class="nav-link">تسجيل حساب</a>
             </nav>
 

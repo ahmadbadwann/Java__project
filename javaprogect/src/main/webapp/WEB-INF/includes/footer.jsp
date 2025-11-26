@@ -31,7 +31,7 @@
                 <h4 class="text-xl font-semibold">روابط سريعة</h4>
                 <ul class="space-y-3 text-gray-400 text-sm">
                     <li><a href="#" class="hover:text-white">من نحن</a></li>
-                    <li><a href="#" class="hover:text-white">كيف يعمل الموقع</a></li>
+                    <li><a href="#a" class="hover:text-white">كيف يعمل الموقع</a></li>
                 </ul>
             </div>
 
